@@ -10,7 +10,7 @@ This project is a starting point for a Kotlin application.
 In the project, a weather application was realized with the data read from the OpenWeatherMap API. Data wer get from using Volley, an Android library that helps to perform HTTP operations securely and quickly. Spinner, RecyclerView, ImageView and TextView were used in the project.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/59059790/120940845-ee43ba00-c727-11eb-8561-2e85fc60caea.gif" height="500"/>
+  <img src="https://user-images.githubusercontent.com/59059790/121883085-00ba8680-cd1a-11eb-9bfc-3f4a8d81f7f0.gif" height="500"/>
 </p>
 
 ### Getting Started
